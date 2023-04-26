@@ -1,1 +1,2 @@
-alert console.log("hi first JS file")
+alert ("Hi there, first JS file");
+
