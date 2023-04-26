@@ -1,0 +1,1 @@
+alert console.log("hi first JS file")
